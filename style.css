@@ -1,0 +1,15 @@
+p {
+    color: red;          /* Using a color name */
+}
+
+h1 {
+    color: #00FF00;      /* Using a hexadecimal value */
+}
+
+a {
+    color: rgb(255, 0, 0);  /* Using RGB values */
+}
+
+span {
+    color: hsl(120, 100%, 50%);  /* Using HSL values */
+}
